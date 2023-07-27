@@ -9,4 +9,4 @@ For the dataset use the built in feature present in whatsapp to extract the chat
 7. Select your preferred option, and the chat history will be prepared for exporting.
 8. You may then be able to choose where you want to send the chat history, such as via email, cloud storage, or other messaging apps.
 
-After getting the group chat as a text file you can read that file to visulaise it in the R program.
+After getting the group chat as a text file you can read that file to visualise it in the R program.
